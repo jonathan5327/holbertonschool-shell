@@ -1,0 +1,2 @@
+#!/bin/bash
+uniq -u | tail --line=+1 > iacta

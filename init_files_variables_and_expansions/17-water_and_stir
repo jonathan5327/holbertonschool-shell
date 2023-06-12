@@ -1,2 +1,2 @@
 #!/bin/bash
-WATER=$((WATER + STIR))
+export WATER="water" | export STIR="stir" | 

@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$WATER" | WATER=$((WATER + STIR)
+papaste - - | cut -f1

@@ -1,2 +1,2 @@
 #!/bin/bash
-WATER=$((WATER + STIR)) | printf=$WATER | export="Best School"
+printf '%o\n' $(( 6#$( echo $WATER | tr water 012345) + 6#$( echo $STIR | tr stir. 012345 ) )) | tr 012345678 bestchol

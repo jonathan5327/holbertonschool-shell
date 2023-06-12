@@ -1,2 +1,2 @@
 #!/bin/bash
-WATER=$((WATER + STIR)) | printf=$WATER
+WATER=$((WATER + STIR)) | printf=$WATER | export="Best School"
